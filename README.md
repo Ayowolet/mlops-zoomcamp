@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Setup
 
 1. Clone repo:
@@ -19,3 +20,6 @@
    ```
 
 1. Open [`http://localhost:6789`](http://localhost:6789) in your browser.
+=======
+# mlops-zoomcamp
+>>>>>>> 0c691deaeaa46cda116f853e79bcbe6cdec8066c
