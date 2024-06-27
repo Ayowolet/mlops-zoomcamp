@@ -1,7 +1,0 @@
-projects:
-  unit_0_setup: {}
-  unit_1_data_preparation: {}
-  unit_2_training: {}
-  unit_3_observability: {}
-  week03_homework:
-    path: week03_homework
